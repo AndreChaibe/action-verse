@@ -1,0 +1,22 @@
+:root {
+    --color-purple-dark: #6a1b9a;
+    --color-purple-medium: #361f4b;
+    --color-purple-light: #52366d;
+    --color-purple-accent: #9e2275;
+    --color-purple-accent: #8c1f68;
+    --color-purple-accent-dark: #7f1d7f;
+    --color-pink-light: #fddcf4;
+    --color-pink-medium: #c9bbd7;
+    --color-pink-pale: #dbd1e4;
+    --color-pink-background: #e3d2f4;
+    --color-orange-accent: #c83b0e;
+    --color-purple-gradient: #7a50ab;
+    --color-highlight-transparent: #8b0b7e30;
+    --color-backdrop: rgba(0, 0, 0, 0.6);
+    --color-pink-transparent-light: rgba(201, 187, 215, 0.1);
+    --color-pink-transparent-medium: rgba(201, 187, 215, 0.2);
+    --color-pink-transparent-strong: rgba(201, 187, 215, 0.3);
+    --color-shadow-light: rgba(201, 187, 215, 0.4);
+    --color-background-primary: hsl(20, 50%, 98%);
+    --color-background-page: url("../images/background.png") center no-repeat;
+}

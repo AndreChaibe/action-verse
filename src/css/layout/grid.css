@@ -1,0 +1,15 @@
+main .container-section {
+    margin-top: 30px;
+}
+
+main .container-section .action-figure-list {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(280px, 1fr));
+    gap: 40px;
+    animation: page-start-animation 1.3s ease-out 1 alternate;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    place-items: center;
+}
