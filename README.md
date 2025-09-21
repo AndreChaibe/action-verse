@@ -15,6 +15,7 @@ O foco está em DOM com ES Modules, feedbacks claros ao usuário e uma experiên
 
 ---
 
+
 ## ⚙️ Funcionalidades
 - 🛒**Listagem de produtos**: renderização dinâmica a partir de `src/js/data.js`.
 - 🛒**Adicionar ao carrinho**: botão com estados (ativo/inativo) e controle de quantidade inline.
@@ -42,6 +43,15 @@ O foco está em DOM com ES Modules, feedbacks claros ao usuário e uma experiên
 - ✒️**Fontes**: estrutura semântica e importação de módulos.
 - 🖌️**Ícones**: SVGs customizados.
 - 🧩**Imagens**: catálogo de produtos e elementos da UI.
+
+---
+
+## 🎞️ Imagens em Diferentes Dispositivos
+<div align="center">
+  <img width="500" height="500" alt="Macbook-Air-127 0 0 1 (4)" src="https://github.com/user-attachments/assets/8493bc04-93f0-4dc1-b0e2-6cd08de73231" />
+  <img width="200" height="400" alt="iPhone-11-127 0 0 1" src="https://github.com/user-attachments/assets/a4c1bcc6-043c-4032-bece-f6a8bbc086f6" />
+  <img width="300" height="564" alt="iPad-Mini-127 0 0 1" src="https://github.com/user-attachments/assets/daccea45-9ec9-4d1c-98f1-33221758cca6" />
+</div>
 
 ---
 
